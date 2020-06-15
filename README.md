@@ -41,17 +41,17 @@ Velocity，Thymeleaf模板
 详见：[http://codegen.ricozhou.com/pages/doc.html](http://codegen.ricozhou.com/pages/doc.html)
 
 #### 演示图
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/102559_117035d5_1787291.png "微信截图_20200615093454.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092018_0f7952df_1787291.png "微信截图_20200615084258.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092030_f65f2859_1787291.png "微信截图_20200615084316.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092104_4f00a460_1787291.png "微信截图_20200615084347.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092112_79846ec5_1787291.png "微信截图_20200615084415.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092121_5ef99a72_1787291.png "微信截图_20200615084424.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092129_4d6bf609_1787291.png "微信截图_20200615084433.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092136_caffaf2a_1787291.png "微信截图_20200615084440.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092153_f1e5763b_1787291.png "微信截图_20200615084459.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092200_797e68a5_1787291.png "微信截图_20200615084509.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0615/092209_df0d0be4_1787291.png "微信截图_20200615084519.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/1.png "微信截图_20200615093454.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/2.png "微信截图_20200615084258.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/3.png "微信截图_20200615084316.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/4.png "微信截图_20200615084347.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/5.png "微信截图_20200615084415.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/6.png "微信截图_20200615084424.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/7.png "微信截图_20200615084433.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/8.png "微信截图_20200615084440.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/9.png "微信截图_20200615084459.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/10.png "微信截图_20200615084509.png")
+![输入图片说明](https://github.com/ricozhou/JustGen/raw/master/img/11.png "微信截图_20200615084519.png")
 
 
 
